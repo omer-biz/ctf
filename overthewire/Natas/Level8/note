@@ -1,0 +1,12 @@
+Solved using cyberchef with this recipie
+
+From_Hex('Auto')
+Reverse('Character')
+From_Base64('A-Za-z0-9+/=',true)
+
+https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')Reverse('Character')From_Base64('A-Za-z0-9%2B/%3D',true)&input=%5Bobject%20Object%5D,%5Bobject%20Object%5D,%5Bobject%20Object%5D
+
+
+the secret:
+    oubWYf2kBq
+Access granted. The password for natas9 is W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl

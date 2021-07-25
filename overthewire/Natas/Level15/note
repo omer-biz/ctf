@@ -1,0 +1,9 @@
+sql blind injection
+
+
+SELECT * FROM USERS WHERE username="natas16 and substring(password, 1,1) "a"
+
+
+natas16:waiheacj63wnnibroheqi3p9t0m5nhmh
+natas16:WaIHEacj63wnNIBROHeqi3p9t0m5nhmh
+
